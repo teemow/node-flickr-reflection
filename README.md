@@ -2,9 +2,16 @@
 
 A flickr client for node.js that uses the reflection api.
 
+## Install
+<pre>
+npm install flickr-reflection
+</pre>
+
 ## Example
 
-<pre>var options = {
+<pre>
+var flickr = require('flickr-reflection');
+var options = {
     key: 'add_your_flickr_key',
     secret: 'add_your_flickr_secret',
     apis: ['contacts', 'photos'] // add the apis you'd like to use

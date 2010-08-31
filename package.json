@@ -1,0 +1,10 @@
+{
+  "name"          : "flickr-reflection",
+  "description"   : "A flickr client using their reflection API",
+  "url"           : "http://github.com/teemow/node-flickr-reflection",
+  "keywords"      : ["flickr", "api", "photos"],
+  "author"        : "Timo Derstappen <teemow@gmail.com>",
+  "main"          : "./lib/flickr",
+  "version"       : "0.0.1"
+}
+
