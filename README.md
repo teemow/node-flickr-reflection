@@ -28,5 +28,4 @@ flickr.connect(options, function(err, api) {
 
 ## Dependencies
 
-If you need to use signed methods you have to install hashlib:
-<http://github.com/brainfucker/hashlib>
+If you need to use signed methods you have to install node with openssl.
